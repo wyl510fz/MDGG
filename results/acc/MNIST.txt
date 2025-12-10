@@ -1,0 +1,12 @@
+2025-01-16  11:32:00
+dataset:MNIST | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.4259 | ACC_std: 1.9438 | ACC_max:89.3889
+F1_mean:85.6668 | F1_std: 1.7973 | F1_max:87.3526
+----------------------------------------------------------------------------
+2025-01-18  23:51:03
+dataset:MNIST | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:86.9111 | ACC_std: 1.8454 | ACC_max:89.3889
+F1_mean:85.1507 | F1_std: 1.7853 | F1_max:87.3526
+----------------------------------------------------------------------------

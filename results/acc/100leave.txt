@@ -1,0 +1,6 @@
+2025-01-18  23:57:43
+dataset:100leave | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.8714 | ACC_std: 1.3290 | ACC_max:90.3571
+F1_mean:88.6159 | F1_std: 1.4160 | F1_max:90.1829
+----------------------------------------------------------------------------

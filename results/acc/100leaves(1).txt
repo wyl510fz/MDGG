@@ -1,0 +1,162 @@
+2025-03-24  23:25:23
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-03-24  23:26:09
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.3571 | ACC_std: 0.0000 | ACC_max:87.3571
+F1_mean:87.0199 | F1_std: 0.0000 | F1_max:87.0199
+----------------------------------------------------------------------------
+2025-03-24  23:26:32
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.1429 | ACC_std: 0.0000 | ACC_max:88.1429
+F1_mean:87.7783 | F1_std: 0.0000 | F1_max:87.7783
+----------------------------------------------------------------------------
+2025-03-24  23:26:48
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:90.0714 | ACC_std: 0.0000 | ACC_max:90.0714
+F1_mean:89.8395 | F1_std: 0.0000 | F1_max:89.8395
+----------------------------------------------------------------------------
+2025-03-24  23:27:05
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:86.6429 | ACC_std: 0.0000 | ACC_max:86.6429
+F1_mean:86.3350 | F1_std: 0.0000 | F1_max:86.3350
+----------------------------------------------------------------------------
+2025-03-24  23:27:22
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.0000 | ACC_std: 0.0000 | ACC_max:87.0000
+F1_mean:86.6684 | F1_std: 0.0000 | F1_max:86.6684
+----------------------------------------------------------------------------
+2025-03-24  23:27:38
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:86.2143 | ACC_std: 0.0000 | ACC_max:86.2143
+F1_mean:85.8658 | F1_std: 0.0000 | F1_max:85.8658
+----------------------------------------------------------------------------
+2025-03-24  23:27:53
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:89.9286 | ACC_std: 0.0000 | ACC_max:89.9286
+F1_mean:89.6919 | F1_std: 0.0000 | F1_max:89.6919
+----------------------------------------------------------------------------
+2025-03-24  23:28:11
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:89.9286 | ACC_std: 0.0000 | ACC_max:89.9286
+F1_mean:89.7189 | F1_std: 0.0000 | F1_max:89.7189
+----------------------------------------------------------------------------
+2025-03-24  23:28:29
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.9286 | ACC_std: 0.0000 | ACC_max:88.9286
+F1_mean:88.6530 | F1_std: 0.0000 | F1_max:88.6530
+----------------------------------------------------------------------------
+2025-03-24  23:28:46
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-03-25  14:09:48
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-03-25  14:44:33
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-04-27  12:22:09
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-05-04  12:16:05
+dataset:100leaves(1) | rep_num：1 | Ratio：0.05 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:75.0667 | ACC_std: 0.0000 | ACC_max:75.0667
+F1_mean:74.0656 | F1_std: 0.0000 | F1_max:74.0656
+----------------------------------------------------------------------------
+2025-05-04  12:16:23
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.4286 | ACC_std: 0.0000 | ACC_max:88.4286
+F1_mean:88.1715 | F1_std: 0.0000 | F1_max:88.1715
+----------------------------------------------------------------------------
+2025-05-04  12:16:35
+dataset:100leaves(1) | rep_num：1 | Ratio：0.15 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.6029 | ACC_std: 0.0000 | ACC_max:88.6029
+F1_mean:88.3575 | F1_std: 0.0000 | F1_max:88.3575
+----------------------------------------------------------------------------
+2025-05-04  12:16:53
+dataset:100leaves(1) | rep_num：1 | Ratio：0.25 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:91.5833 | ACC_std: 0.0000 | ACC_max:91.5833
+F1_mean:91.4681 | F1_std: 0.0000 | F1_max:91.4681
+----------------------------------------------------------------------------
+2025-05-04  12:17:05
+dataset:100leaves(1) | rep_num：1 | Ratio：0.35 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:94.6000 | ACC_std: 0.0000 | ACC_max:94.6000
+F1_mean:94.4981 | F1_std: 0.0000 | F1_max:94.4981
+----------------------------------------------------------------------------
+2025-05-04  12:17:18
+dataset:100leaves(1) | rep_num：1 | Ratio：0.45 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.5682 | ACC_std: 0.0000 | ACC_max:95.5682
+F1_mean:95.5195 | F1_std: 0.0000 | F1_max:95.5195
+----------------------------------------------------------------------------
+2025-05-04  12:17:29
+dataset:100leaves(1) | rep_num：1 | Ratio：0.5 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:89.8750 | ACC_std: 0.0000 | ACC_max:89.8750
+F1_mean:89.3669 | F1_std: 0.0000 | F1_max:89.3669
+----------------------------------------------------------------------------
+2025-05-04  12:17:41
+dataset:100leaves(1) | rep_num：1 | Ratio：0.4 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:94.6875 | ACC_std: 0.0000 | ACC_max:94.6875
+F1_mean:94.5929 | F1_std: 0.0000 | F1_max:94.5929
+----------------------------------------------------------------------------
+2025-05-04  12:17:54
+dataset:100leaves(1) | rep_num：1 | Ratio：0.3 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:93.3636 | ACC_std: 0.0000 | ACC_max:93.3636
+F1_mean:93.2451 | F1_std: 0.0000 | F1_max:93.2451
+----------------------------------------------------------------------------
+2025-05-04  12:18:07
+dataset:100leaves(1) | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:90.3906 | ACC_std: 0.0000 | ACC_max:90.3906
+F1_mean:90.2528 | F1_std: 0.0000 | F1_max:90.2528
+----------------------------------------------------------------------------
+2025-05-09  09:34:10
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.3571 | ACC_std: 0.0000 | ACC_max:87.3571
+F1_mean:87.0199 | F1_std: 0.0000 | F1_max:87.0199
+----------------------------------------------------------------------------
+2025-05-09  09:34:26
+dataset:100leaves(1) | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.3571 | ACC_std: 0.0000 | ACC_max:87.3571
+F1_mean:87.0199 | F1_std: 0.0000 | F1_max:87.0199
+----------------------------------------------------------------------------
+2025-05-09  09:35:05
+dataset:100leaves(1) | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:87.8714 | ACC_std: 0.4853 | ACC_max:88.3571
+F1_mean:87.5293 | F1_std: 0.5270 | F1_max:88.0497
+----------------------------------------------------------------------------

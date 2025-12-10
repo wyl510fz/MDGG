@@ -1,0 +1,12 @@
+2024-12-09  21:32:07
+dataset:Wikipedia | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:54.8611 | ACC_std: 1.1129 | ACC_max:56.4103
+F1_mean:52.2663 | F1_std: 0.9084 | F1_max:53.5501
+----------------------------------------------------------------------------
+2024-12-09  23:13:43
+dataset:Wikipedia | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:54.8611 | ACC_std: 1.1129 | ACC_max:56.4103
+F1_mean:52.2663 | F1_std: 0.9084 | F1_max:53.5501
+----------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+2024-12-09  21:42:22
+dataset:Caltech101-7 | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:57.1895 | ACC_std: 19.3260 | ACC_max:83.5596
+F1_mean:55.2909 | F1_std: 7.9523 | F1_max:65.0221
+----------------------------------------------------------------------------

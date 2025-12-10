@@ -1,0 +1,66 @@
+2025-01-15  09:32:38
+dataset:ALOI | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:90.9529 | ACC_std: 0.5978 | ACC_max:91.7441
+F1_mean:91.1704 | F1_std: 0.4696 | F1_max:91.8118
+----------------------------------------------------------------------------
+2025-01-18  11:04:31
+dataset:ALOI | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:90.5470 | ACC_std: 1.4427 | ACC_max:91.9505
+F1_mean:90.8784 | F1_std: 1.1639 | F1_max:92.0944
+----------------------------------------------------------------------------
+2025-05-04  12:18:31
+dataset:ALOI | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:91.6279 | ACC_std: 0.0000 | ACC_max:91.6279
+F1_mean:91.7242 | F1_std: 0.0000 | F1_max:91.7242
+----------------------------------------------------------------------------
+2025-05-04  12:18:44
+dataset:ALOI | rep_num：1 | Ratio：0.3 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:88.6093 | ACC_std: 0.0000 | ACC_max:88.6093
+F1_mean:89.1441 | F1_std: 0.0000 | F1_max:89.1441
+----------------------------------------------------------------------------
+2025-05-04  12:19:04
+dataset:ALOI | rep_num：1 | Ratio：0.4 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:92.4266 | ACC_std: 0.0000 | ACC_max:92.4266
+F1_mean:92.5320 | F1_std: 0.0000 | F1_max:92.5320
+----------------------------------------------------------------------------
+2025-05-04  12:19:21
+dataset:ALOI | rep_num：1 | Ratio：0.5 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:92.5788 | ACC_std: 0.0000 | ACC_max:92.5788
+F1_mean:92.7043 | F1_std: 0.0000 | F1_max:92.7043
+----------------------------------------------------------------------------
+2025-05-04  12:19:35
+dataset:ALOI | rep_num：1 | Ratio：0.45 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:92.5424 | ACC_std: 0.0000 | ACC_max:92.5424
+F1_mean:92.6795 | F1_std: 0.0000 | F1_max:92.6795
+----------------------------------------------------------------------------
+2025-05-04  12:20:23
+dataset:ALOI | rep_num：1 | Ratio：0.35 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:89.7143 | ACC_std: 0.0000 | ACC_max:89.7143
+F1_mean:89.9642 | F1_std: 0.0000 | F1_max:89.9642
+----------------------------------------------------------------------------
+2025-05-04  12:20:38
+dataset:ALOI | rep_num：1 | Ratio：0.25 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:89.2460 | ACC_std: 0.0000 | ACC_max:89.2460
+F1_mean:89.8237 | F1_std: 0.0000 | F1_max:89.8237
+----------------------------------------------------------------------------
+2025-05-04  12:20:54
+dataset:ALOI | rep_num：1 | Ratio：0.15 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:91.2759 | ACC_std: 0.0000 | ACC_max:91.2759
+F1_mean:91.4124 | F1_std: 0.0000 | F1_max:91.4124
+----------------------------------------------------------------------------
+2025-05-04  12:21:09
+dataset:ALOI | rep_num：1 | Ratio：0.05 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:84.7805 | ACC_std: 0.0000 | ACC_max:84.7805
+F1_mean:85.0367 | F1_std: 0.0000 | F1_max:85.0367
+----------------------------------------------------------------------------

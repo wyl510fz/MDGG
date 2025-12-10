@@ -1,0 +1,54 @@
+2024-12-09  11:56:57
+dataset:HW | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.0001 | wd:0.0005 | hidden:128
+ACC_mean:89.1111 | ACC_std: 3.5026 | ACC_max:92.9444
+F1_mean:89.0837 | F1_std: 3.5126 | F1_max:92.9242
+----------------------------------------------------------------------------
+2024-12-09  11:57:33
+dataset:HW | rep_num：5 | Ratio：0.1 | forward_diff_layer0 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.0001 | wd:0.0005 | hidden:128
+ACC_mean:88.8667 | ACC_std: 3.7820 | ACC_max:93.5000
+F1_mean:88.8324 | F1_std: 3.7963 | F1_max:93.4952
+----------------------------------------------------------------------------
+2024-12-09  11:58:01
+dataset:HW | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.01 | wd:0.0005 | hidden:128
+ACC_mean:50.2556 | ACC_std: 8.0132 | ACC_max:64.0000
+F1_mean:50.7186 | F1_std: 7.6572 | F1_max:64.0083
+----------------------------------------------------------------------------
+2024-12-09  11:58:40
+dataset:HW | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:61.3667 | ACC_std: 15.6472 | ACC_max:92.1667
+F1_mean:61.4675 | F1_std: 15.6075 | F1_max:92.1324
+----------------------------------------------------------------------------
+2024-12-10  09:57:03
+dataset:HW | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:55.9259 | ACC_std: 5.2207 | ACC_max:63.1667
+F1_mean:56.0794 | F1_std: 5.3328 | F1_max:63.4124
+----------------------------------------------------------------------------
+2025-01-04  10:31:36
+dataset:HW | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:55.9259 | ACC_std: 5.2207 | ACC_max:63.1667
+F1_mean:56.0794 | F1_std: 5.3328 | F1_max:63.4124
+----------------------------------------------------------------------------
+2025-01-06  14:49:11
+dataset:HW | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:55.9259 | ACC_std: 5.2207 | ACC_max:63.1667
+F1_mean:56.0794 | F1_std: 5.3328 | F1_max:63.4124
+----------------------------------------------------------------------------
+2025-01-15  09:26:44
+dataset:HW | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:55.9259 | ACC_std: 5.2207 | ACC_max:63.1667
+F1_mean:56.0794 | F1_std: 5.3328 | F1_max:63.4124
+----------------------------------------------------------------------------
+2025-03-19  09:35:26
+dataset:HW | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:51.4444 | ACC_std: 0.0000 | ACC_max:51.4444
+F1_mean:51.6380 | F1_std: 0.0000 | F1_max:51.6380
+----------------------------------------------------------------------------

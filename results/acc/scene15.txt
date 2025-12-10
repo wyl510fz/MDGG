@@ -1,0 +1,72 @@
+2024-12-09  23:11:11
+dataset:scene15 | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:70.8220 | ACC_std: 2.0926 | ACC_max:73.5068
+F1_mean:69.7373 | F1_std: 1.9278 | F1_max:72.1916
+----------------------------------------------------------------------------
+2025-01-18  23:55:16
+dataset:scene15 | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:71.1623 | ACC_std: 1.8350 | ACC_max:73.5068
+F1_mean:70.0546 | F1_std: 1.6434 | F1_max:72.1916
+----------------------------------------------------------------------------
+2025-05-04  12:54:54
+dataset:scene15 | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:75.9755 | ACC_std: 0.0000 | ACC_max:75.9755
+F1_mean:74.7216 | F1_std: 0.0000 | F1_max:74.7216
+----------------------------------------------------------------------------
+2025-05-04  12:55:31
+dataset:scene15 | rep_num：1 | Ratio：0.3 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:76.7197 | ACC_std: 0.0000 | ACC_max:76.7197
+F1_mean:75.6363 | F1_std: 0.0000 | F1_max:75.6363
+----------------------------------------------------------------------------
+2025-05-04  12:56:15
+dataset:scene15 | rep_num：1 | Ratio：0.4 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:77.7035 | ACC_std: 0.0000 | ACC_max:77.7035
+F1_mean:76.6078 | F1_std: 0.0000 | F1_max:76.6078
+----------------------------------------------------------------------------
+2025-05-04  12:56:49
+dataset:scene15 | rep_num：1 | Ratio：0.0 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:38.9038 | ACC_std: 0.0000 | ACC_max:38.9038
+F1_mean:40.2250 | F1_std: 0.0000 | F1_max:40.2250
+----------------------------------------------------------------------------
+2025-05-04  12:57:35
+dataset:scene15 | rep_num：1 | Ratio：0.5 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:77.6985 | ACC_std: 0.0000 | ACC_max:77.6985
+F1_mean:76.7885 | F1_std: 0.0000 | F1_max:76.7885
+----------------------------------------------------------------------------
+2025-05-04  12:58:05
+dataset:scene15 | rep_num：1 | Ratio：0.45 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:77.7463 | ACC_std: 0.0000 | ACC_max:77.7463
+F1_mean:77.0386 | F1_std: 0.0000 | F1_max:77.0386
+----------------------------------------------------------------------------
+2025-05-04  12:59:06
+dataset:scene15 | rep_num：1 | Ratio：0.35 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:77.6253 | ACC_std: 0.0000 | ACC_max:77.6253
+F1_mean:76.5461 | F1_std: 0.0000 | F1_max:76.5461
+----------------------------------------------------------------------------
+2025-05-04  13:00:00
+dataset:scene15 | rep_num：1 | Ratio：0.25 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:76.4566 | ACC_std: 0.0000 | ACC_max:76.4566
+F1_mean:75.4053 | F1_std: 0.0000 | F1_max:75.4053
+----------------------------------------------------------------------------
+2025-05-04  13:01:18
+dataset:scene15 | rep_num：1 | Ratio：0.15 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:73.2686 | ACC_std: 0.0000 | ACC_max:73.2686
+F1_mean:71.6127 | F1_std: 0.0000 | F1_max:71.6127
+----------------------------------------------------------------------------
+2025-05-04  13:01:52
+dataset:scene15 | rep_num：1 | Ratio：0.05 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:60.5961 | ACC_std: 0.0000 | ACC_max:60.5961
+F1_mean:59.1408 | F1_std: 0.0000 | F1_max:59.1408
+----------------------------------------------------------------------------

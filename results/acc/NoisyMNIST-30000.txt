@@ -1,0 +1,78 @@
+2024-12-10  00:51:54
+dataset:NoisyMNIST-30000 | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.4975 | ACC_std: 0.3326 | ACC_max:95.8333
+F1_mean:95.4557 | F1_std: 0.3366 | F1_max:95.7851
+----------------------------------------------------------------------------
+2025-01-19  02:23:24
+dataset:NoisyMNIST-30000 | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.8511 | ACC_std: 0.5039 | ACC_max:96.3889
+F1_mean:95.8130 | F1_std: 0.5094 | F1_max:96.3587
+----------------------------------------------------------------------------
+2025-01-21  12:13:38
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.6148 | ACC_std: 0.0000 | ACC_max:95.6148
+F1_mean:95.5884 | F1_std: 0.0000 | F1_max:95.5884
+----------------------------------------------------------------------------
+2025-03-20  14:15:21
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:96.0370 | ACC_std: 0.0000 | ACC_max:96.0370
+F1_mean:95.9961 | F1_std: 0.0000 | F1_max:95.9961
+----------------------------------------------------------------------------
+2025-05-04  13:05:35
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.05 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.1544 | ACC_std: 0.0000 | ACC_max:95.1544
+F1_mean:95.1141 | F1_std: 0.0000 | F1_max:95.1141
+----------------------------------------------------------------------------
+2025-05-04  13:14:18
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.15 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:96.5490 | ACC_std: 0.0000 | ACC_max:96.5490
+F1_mean:96.5182 | F1_std: 0.0000 | F1_max:96.5182
+----------------------------------------------------------------------------
+2025-05-04  13:19:07
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.25 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.5778 | ACC_std: 0.0000 | ACC_max:95.5778
+F1_mean:95.5350 | F1_std: 0.0000 | F1_max:95.5350
+----------------------------------------------------------------------------
+2025-05-04  14:06:50
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.35 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.8410 | ACC_std: 0.0000 | ACC_max:95.8410
+F1_mean:95.7943 | F1_std: 0.0000 | F1_max:95.7943
+----------------------------------------------------------------------------
+2025-05-04  14:11:06
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.45 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:96.9089 | ACC_std: 0.0000 | ACC_max:96.9089
+F1_mean:96.8866 | F1_std: 0.0000 | F1_max:96.8866
+----------------------------------------------------------------------------
+2025-05-04  17:10:31
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.5 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:96.7600 | ACC_std: 0.0000 | ACC_max:96.7600
+F1_mean:96.7377 | F1_std: 0.0000 | F1_max:96.7377
+----------------------------------------------------------------------------
+2025-05-04  17:28:27
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.4 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:96.7054 | ACC_std: 0.0000 | ACC_max:96.7054
+F1_mean:96.6833 | F1_std: 0.0000 | F1_max:96.6833
+----------------------------------------------------------------------------
+2025-05-04  17:31:21
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.3 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.9905 | ACC_std: 0.0000 | ACC_max:95.9905
+F1_mean:95.9527 | F1_std: 0.0000 | F1_max:95.9527
+----------------------------------------------------------------------------
+2025-05-04  17:34:37
+dataset:NoisyMNIST-30000 | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:95.7665 | ACC_std: 0.0000 | ACC_max:95.7665
+F1_mean:95.7194 | F1_std: 0.0000 | F1_max:95.7194
+----------------------------------------------------------------------------

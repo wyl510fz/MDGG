@@ -1,0 +1,30 @@
+2024-12-09  21:04:45
+dataset:3Source | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:60.5263 | ACC_std: 11.1778 | ACC_max:69.0789
+F1_mean:62.0701 | F1_std: 12.4748 | F1_max:71.5459
+----------------------------------------------------------------------------
+2025-02-14  09:59:10
+dataset:3Source | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:44.7368 | ACC_std: 0.0000 | ACC_max:44.7368
+F1_mean:44.4447 | F1_std: 0.0000 | F1_max:44.4447
+----------------------------------------------------------------------------
+2025-02-20  10:12:01
+dataset:3Source | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:44.7368 | ACC_std: 0.0000 | ACC_max:44.7368
+F1_mean:44.4447 | F1_std: 0.0000 | F1_max:44.4447
+----------------------------------------------------------------------------
+2025-03-17  13:54:49
+dataset:3Source | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:44.7368 | ACC_std: 0.0000 | ACC_max:44.7368
+F1_mean:44.4447 | F1_std: 0.0000 | F1_max:44.4447
+----------------------------------------------------------------------------
+2025-03-17  15:43:46
+dataset:3Source | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:50 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:51.3158 | ACC_std: 0.0000 | ACC_max:51.3158
+F1_mean:43.6369 | F1_std: 0.0000 | F1_max:43.6369
+----------------------------------------------------------------------------

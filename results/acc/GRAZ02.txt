@@ -1,0 +1,6 @@
+2024-12-09  20:51:19
+dataset:GRAZ02 | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:43.3986 | ACC_std: 3.3862 | ACC_max:46.1596
+F1_mean:41.0965 | F1_std: 3.7650 | F1_max:43.9935
+----------------------------------------------------------------------------

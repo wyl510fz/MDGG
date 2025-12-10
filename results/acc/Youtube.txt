@@ -1,0 +1,6 @@
+2024-12-09  21:30:29
+dataset:Youtube | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:47.2407 | ACC_std: 1.2225 | ACC_max:48.5556
+F1_mean:47.6129 | F1_std: 1.1498 | F1_max:48.7597
+----------------------------------------------------------------------------

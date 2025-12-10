@@ -1,0 +1,156 @@
+2025-01-15  09:36:38
+dataset:Caltech101-all | rep_num：3 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:53.0725 | ACC_std: 0.3176 | ACC_max:53.4573
+F1_mean:36.9712 | F1_std: 0.5447 | F1_max:37.4972
+----------------------------------------------------------------------------
+2025-05-07  10:18:39
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.5290 | ACC_std: 0.0000 | ACC_max:62.5290
+F1_mean:48.9794 | F1_std: 0.0000 | F1_max:48.9794
+----------------------------------------------------------------------------
+2025-05-07  10:26:17
+dataset:Caltech101-all | rep_num：5 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2k=1
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.1408 | ACC_std: 0.4039 | ACC_max:62.5290
+F1_mean:48.4451 | F1_std: 0.5643 | F1_max:49.0510
+----------------------------------------------------------------------------
+2025-05-07  10:30:30
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.5017 | ACC_std: 0.0000 | ACC_max:62.5017
+F1_mean:48.8259 | F1_std: 0.0000 | F1_max:48.8259
+----------------------------------------------------------------------------
+2025-05-07  10:31:24
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.5290 | ACC_std: 0.0000 | ACC_max:62.5290
+F1_mean:48.9794 | F1_std: 0.0000 | F1_max:48.9794
+----------------------------------------------------------------------------
+2025-05-07  10:32:17
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.0779 | ACC_std: 0.0000 | ACC_max:62.0779
+F1_mean:48.1691 | F1_std: 0.0000 | F1_max:48.1691
+----------------------------------------------------------------------------
+2025-05-07  10:33:08
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:60.6152 | ACC_std: 0.0000 | ACC_max:60.6152
+F1_mean:46.1318 | F1_std: 0.0000 | F1_max:46.1318
+----------------------------------------------------------------------------
+2025-05-07  10:34:02
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:60.5742 | ACC_std: 0.0000 | ACC_max:60.5742
+F1_mean:46.3291 | F1_std: 0.0000 | F1_max:46.3291
+----------------------------------------------------------------------------
+2025-05-07  10:35:00
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:59.2071 | ACC_std: 0.0000 | ACC_max:59.2071
+F1_mean:44.3768 | F1_std: 0.0000 | F1_max:44.3768
+----------------------------------------------------------------------------
+2025-05-07  10:36:42
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:59.0431 | ACC_std: 0.0000 | ACC_max:59.0431
+F1_mean:44.4851 | F1_std: 0.0000 | F1_max:44.4851
+----------------------------------------------------------------------------
+2025-05-07  10:38:04
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:58.2092 | ACC_std: 0.0000 | ACC_max:58.2092
+F1_mean:43.3057 | F1_std: 0.0000 | F1_max:43.3057
+----------------------------------------------------------------------------
+2025-05-07  10:39:24
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:57.6487 | ACC_std: 0.0000 | ACC_max:57.6487
+F1_mean:42.5000 | F1_std: 0.0000 | F1_max:42.5000
+----------------------------------------------------------------------------
+2025-05-07  10:40:58
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:57.2522 | ACC_std: 0.0000 | ACC_max:57.2522
+F1_mean:41.8687 | F1_std: 0.0000 | F1_max:41.8687
+----------------------------------------------------------------------------
+2025-05-07  13:33:22
+dataset:Caltech101-all | rep_num：5 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.4334 | ACC_std: 0.1759 | ACC_max:62.7068
+F1_mean:48.7659 | F1_std: 0.1919 | F1_max:49.0706
+----------------------------------------------------------------------------
+2025-05-09  09:24:08
+dataset:Caltech101-all | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:56.4710 | ACC_std: 0.0000 | ACC_max:56.4710
+F1_mean:40.3482 | F1_std: 0.0000 | F1_max:40.3482
+----------------------------------------------------------------------------
+2025-05-09  09:32:55
+dataset:Caltech101-all | rep_num：1 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:56.4710 | ACC_std: 0.0000 | ACC_max:56.4710
+F1_mean:40.3482 | F1_std: 0.0000 | F1_max:40.3482
+----------------------------------------------------------------------------
+2025-05-09  09:57:47
+dataset:Caltech101-all | rep_num：5 | Ratio：0.1 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:56.0992 | ACC_std: 0.4098 | ACC_max:56.5075
+F1_mean:40.6197 | F1_std: 0.2304 | F1_max:41.0229
+----------------------------------------------------------------------------
+2025-05-14  11:38:23
+dataset:Caltech101-all | rep_num：1 | Ratio：0.05 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:46.6099 | ACC_std: 0.0000 | ACC_max:46.6099
+F1_mean:31.8808 | F1_std: 0.0000 | F1_max:31.8808
+----------------------------------------------------------------------------
+2025-05-14  11:39:15
+dataset:Caltech101-all | rep_num：1 | Ratio：0.15 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:60.4169 | ACC_std: 0.0000 | ACC_max:60.4169
+F1_mean:45.9062 | F1_std: 0.0000 | F1_max:45.9062
+----------------------------------------------------------------------------
+2025-05-14  11:40:07
+dataset:Caltech101-all | rep_num：1 | Ratio：0.25 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:63.5594 | ACC_std: 0.0000 | ACC_max:63.5594
+F1_mean:50.0947 | F1_std: 0.0000 | F1_max:50.0947
+----------------------------------------------------------------------------
+2025-05-14  12:43:16
+dataset:Caltech101-all | rep_num：1 | Ratio：0.35 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:65.0572 | ACC_std: 0.0000 | ACC_max:65.0572
+F1_mean:52.3892 | F1_std: 0.0000 | F1_max:52.3892
+----------------------------------------------------------------------------
+2025-05-14  12:44:18
+dataset:Caltech101-all | rep_num：1 | Ratio：0.45 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:65.5858 | ACC_std: 0.0000 | ACC_max:65.5858
+F1_mean:53.1062 | F1_std: 0.0000 | F1_max:53.1062
+----------------------------------------------------------------------------
+2025-05-14  12:45:32
+dataset:Caltech101-all | rep_num：1 | Ratio：0.5 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:65.6661 | ACC_std: 0.0000 | ACC_max:65.6661
+F1_mean:53.2075 | F1_std: 0.0000 | F1_max:53.2075
+----------------------------------------------------------------------------
+2025-05-14  12:46:45
+dataset:Caltech101-all | rep_num：1 | Ratio：0.4 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:65.6632 | ACC_std: 0.0000 | ACC_max:65.6632
+F1_mean:52.9444 | F1_std: 0.0000 | F1_max:52.9444
+----------------------------------------------------------------------------
+2025-05-14  12:47:53
+dataset:Caltech101-all | rep_num：1 | Ratio：0.3 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:64.9117 | ACC_std: 0.0000 | ACC_max:64.9117
+F1_mean:52.0885 | F1_std: 0.0000 | F1_max:52.0885
+----------------------------------------------------------------------------
+2025-05-14  12:49:05
+dataset:Caltech101-all | rep_num：1 | Ratio：0.2 | forward_diff_layer2 | gcn_layers:2
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:128
+ACC_mean:62.5290 | ACC_std: 0.0000 | ACC_max:62.5290
+F1_mean:48.9794 | F1_std: 0.0000 | F1_max:48.9794
+----------------------------------------------------------------------------
